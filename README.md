@@ -1,4 +1,4 @@
-# 🛠️ Network Diagnostic Tool
+# 🛠️ Network Diagnostic Tool (https://nw-tool.netlify.app)
 
 **Network Diagnostic Tool** es una herramienta automatizada desarrollada en script CMD que permite ejecutar pruebas de red comunes para distintas campañas de una empresa de forma rápida y organizada. Su objetivo es reducir los tiempos de diagnóstico en eventos críticos y estandarizar la recolección de información técnica.
 
@@ -60,4 +60,3 @@ Desarrollar e implementar una herramienta de diagnóstico automatizado para redu
 - **_C:\Users\tecon\Desktop\logs_app1_2025-05-09.txt_**
 
 ![git placeholder](/images/tool_patch.png)
-0
